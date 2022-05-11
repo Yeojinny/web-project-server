@@ -1,0 +1,159 @@
+{
+    "cafeList":{
+        "recentCafeList":{
+            "title":"최근 본 목록",
+            "List":[
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "1.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "2.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "3.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "4.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "5.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "6.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "7.jpg"
+                }
+            ]
+        }
+        ,
+        "regionCafeList":{
+            "title":"가까운 지역 목록",
+            "List":[
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "4.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "1.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "2.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "3.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "5.jpg"
+                },                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "6.jpg"
+                },                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "7.jpg"
+                }
+            ]
+        },
+        "manyLikeCafeList":{
+            "title":"좋아요가 많은 목록",
+            "List":[
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "3.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "4.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "1.jpg"
+                },                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "2.jpg"
+                },                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "5.jpg"
+                },                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "6.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "7.jpg"
+                }
+            ]
+        },
+        "manyCommentCafeList":{
+            "title":"댓글이 많은 목록",
+            "List":[
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "2.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "3.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "4.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "1.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "5.jpg"
+                },                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "6.jpg"
+                },
+                {
+                    "cafeName":"스벅",
+                    "boardName":"스벅 넘 좋아",
+                    "image": "7.jpg"
+                }
+            ]
+        }
+    }
+}
