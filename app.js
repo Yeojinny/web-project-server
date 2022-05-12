@@ -4,11 +4,6 @@ var path = require("path");
 var cookieParser = require("cookie-parser");
 var logger = require("morgan");
 var indexRouter = require("./routes/index");
-var boardRouter = require("./routes/board");
-var searchRouter = require("./routes/searchCafe");
-var joinRouter = require("./routes/join");
-var homeRouter = require("./routes/home");
-let serverImagePath = "C:\\Users\\yjseo\\Desktop\\project\\clientImage";
 
 var app = express();
 
@@ -22,12 +17,8 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 
+//요청 시 indexRouter로 라우팅
 app.use("/", indexRouter);
-app.use("/api/board", boardRouter);
-app.use("/api/search", searchRouter);
-app.use("/api/join", joinRouter);
-app.use("/api/home", homeRouter);
-app.use("/uploads", express.static(serverImagePath));
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
